@@ -7,7 +7,7 @@ module "sftp" {
   #AWS-SFTP
 
   region = "eu-west-1"
-  aws-transfer-server-name = "cloudgeeks-sftp"
+  aws-transfer-server-name = "cloudgeekssftpp"
   IAM-role-name-for-sftp = "sftp"
   s3-access-policy-name = "s3-specific-bucket-access"
   sftp-user-name = "asimsftp"
